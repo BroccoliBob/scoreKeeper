@@ -1,0 +1,14 @@
+<resources>
+<!-- Base application theme. -->
+<style name="CelticTheme" parent="Theme.AppCompat.Light">
+    <!-- Primary theme color of the app (sets background color of app bar) -->
+    <item name="colorPrimary">#FFFFFF</item>
+    <!-- Background color of Boston Celtic buttons in the app -->
+    <item name="colorButtonNormal">#388E3C</item>
+</style>
+
+    <style name="LakerTheme" parent="Theme.AppCompat.Light">
+        <!-- Background color of L.A Laker buttons in the app -->
+        <item name="colorButtonNormal">#4A148C</item>
+    </style>
+</resources>
